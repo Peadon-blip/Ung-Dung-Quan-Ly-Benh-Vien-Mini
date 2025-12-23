@@ -1,0 +1,8 @@
+======================================== DANH SACH LICH KHAM ========================================
+Ma Lich   ID BS       Ten Bac Si          ID BN       Ten Benh Nhan       Ngay Kham      Gio       Trang Thai     Tien Kham   
+==================================================================================================================================
+LK002     BS001       Nguyen Van An       BN002       Nguyen Van A        23/09/2025     8:00      Hoan thanh     0            VND
+LK003     BS001       Nguyen Van An       BN003       Tran Thi B          23/08/2025     8:00      Dang cho       0            VND
+LK002     BS001       Nguyen Van An       BN002       Nguyen Van A        23/09/2025     8:00      Dang cho       0            VND
+LK003     BS001       Nguyen Van An       BN003       Tran Thi B          23/08/2025     8:00      Dang cho       0            VND
+==================================================================================================================================

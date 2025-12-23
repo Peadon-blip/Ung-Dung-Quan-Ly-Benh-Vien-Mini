@@ -1,0 +1,9 @@
+| ID      | Ten Bac Si               | So Dien Thoai| Chuyen Khoa    |
+----------------------------------------------------------------------
+| BS001   | NguyenVanAn              | 0912345678   | Tim Mach       |
+| BS002   | TranThiBich              | 0987654321   | Noi Tong Hop   |
+| BS003   | LeHongSon                | 0909999888   | Noi Khoa       |
+| BS004   | PhamThanhHoa             | 0978123456   | Ngoai Khoa     |
+| BS005   | VuQuangHuy               | 0911456789   | Da Lieu        |
+| BS006   | VuQuangHuy               | 0352473607   | Noi Khoa       |
+----------------------------------------------------------------------
